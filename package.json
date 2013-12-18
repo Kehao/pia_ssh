@@ -13,12 +13,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/kehao/pia_ssh.git"
+      "url": "https://github.com/Kehao/pia_ssh.git"
     },
     "keywords": [
       "ssh2",
-    "pia",
-    "remote"
+      "pia",
+      "remote"
       ],
     "bin": {
       "pia_ssh": "bin/pia_ssh"
@@ -26,6 +26,6 @@
     "author": "kehao <kehao.qiu@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/kehao/pia_ssh/issues"
+      "url": "https://github.com/Kehao/pia_ssh/issues"
     }
 }
