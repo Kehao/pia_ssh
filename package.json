@@ -1,0 +1,31 @@
+{
+  "name": "pia_ssh",
+    "version": "0.0.1",
+    "description": "A pure javascript pia ssh program based on ssh2.",
+    "scripts": {
+      "test": "make test"
+    },
+    "dependencies": {
+      "ssh2": "~0.2.12",
+      "glob": "~3.2.6",
+      "async": "~0.2.9",
+      "lodash": "~2.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kehao/pia_ssh.git"
+    },
+    "keywords": [
+      "ssh2",
+    "pia",
+    "remote"
+      ],
+    "bin": {
+      "pia_ssh": "bin/pia_ssh"
+    },
+    "author": "kehao <kehao.qiu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/kehao/pia_ssh/issues"
+    }
+}
